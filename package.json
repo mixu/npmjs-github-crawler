@@ -4,6 +4,7 @@
   "description": "Gets github metadata for the repos in the npm database",
   "main": "crawl.js",
   "dependencies": {
+    "mixu_minimal": "git://github.com/mixu/minimal.git",
     "nano": "~3.3.8"
   },
   "devDependencies": {},
